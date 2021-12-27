@@ -1,0 +1,4 @@
+**/snippets.ts
+**/*.json
+**/node_modules/*
+**/dist/*
